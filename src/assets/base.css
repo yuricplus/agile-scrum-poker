@@ -1,0 +1,35 @@
+* {
+  font-family: Avenir, Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-align: center;
+  color: #2c3e50;
+}
+label {
+  font-weight: bolder;
+}
+input, select, textarea {
+  padding: 5px;
+  margin: 10px;
+  border: 1px solid #eaeaea;
+  border-radius: 4px;
+}
+button {
+  cursor: pointer;
+}
+
+button.primary {
+  padding: 5px;
+  background-color: #eaeaea;
+  border: 2px solid #eaeaea;
+  font-weight: bold;
+  border-radius: 4px;
+}
+
+button.secondary {
+  padding: 5px;
+  background-color: #fff;
+  border: 2px solid #eaeaea;
+  font-weight: bold;
+  border-radius: 4px;
+}
